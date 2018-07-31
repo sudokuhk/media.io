@@ -1,16 +1,14 @@
-title: Hello! I'm Huang Kun 
+title: Hello! I'm sudoku.huang
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    Focos on C/C++.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: 黄坤 # add your name
-author-img: huangkun.jpg # add your photo
+author: sudoku.huang # add your name
+author-img: sudoku.jpg # add your photo
 about-author: 懦怯囚禁人的灵魂，希望可以感受自由。强者自救，圣者渡人。 # add description
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
